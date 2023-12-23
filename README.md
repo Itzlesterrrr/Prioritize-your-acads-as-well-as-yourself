@@ -135,7 +135,7 @@
             
 </body>
 </html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -276,7 +276,7 @@
 
                     
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -400,7 +400,7 @@
             <p><a href="Last page message.html"> <button>Creator's Message</button></a></p>
 
             
-[Uploading Last <!DOCTYPE html>
+[Uploading Last 
 <html lang="en">
 <head>
   <meta charset="UTF-8">

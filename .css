@@ -1,0 +1,89 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+}
+
+#commentForm {
+    max-width: 400px;
+    margin: 30;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+#comments {
+    margin-top: 20px;
+}
+
+.comment {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.comment strong {
+    color: #e74c3c;
+}
+
+.justified-paragraph {
+    text-align: justify;
+    margin: 20px;
+}
+.custom-margin-paragraph {
+    margin: 40px; 
+}
+
+img {
+    width: 200px; 
+    height: 100px; 
+}
+
+body .custom-margin {
+    margin: 30px; /* Adjust the value as needed */
+}
+
+body #special-paragraph {
+    margin: 40px; /* Adjust the value as needed */
+}
+
+
+
